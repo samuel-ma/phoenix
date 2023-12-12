@@ -11,8 +11,9 @@
 ## Built with
 
 - [Next.js](https://nextjs.org)
+- [React.js](https://react.dev)
 - [tailwindcss](https://tailwindcss.com)
-- Deployed on [Vercel](https://vercel.com?utm_source=envshare)
+- [Vercel](https://vercel.com?utm_source=envshare)
 
 ## Features
 
