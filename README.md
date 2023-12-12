@@ -8,6 +8,12 @@
 </div>
 <br/>
 
+## Built with
+
+- [Next.js](https://nextjs.org)
+- [tailwindcss](https://tailwindcss.com)
+- Deployed on [Vercel](https://vercel.com?utm_source=envshare)
+
 ## Features
 
 - **Shareable Links:** Share your environment variables securely by sending a
@@ -21,9 +27,3 @@
 <br/>
 
 ![scrnli_12_12_2023_6-18-43 PM](https://github.com/samuel-ma/phoenix/assets/82509653/9178fe86-3a9d-420b-8701-ed1c6bac0428)
-
-## Built with
-
-- [Next.js](https://nextjs.org)
-- [tailwindcss](https://tailwindcss.com)
-- Deployed on [Vercel](https://vercel.com?utm_source=envshare)
