@@ -124,8 +124,9 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            On day four, you are going to learn about rebuttals
+                            and how to respond to the different types of
+                            patients
                         </p>
 
                         <Link
@@ -153,8 +154,9 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            Here is the script, you are going to learn about
+                            rebuttals and how to respond to the different types
+                            of patients
                         </p>
 
                         <Link
@@ -182,8 +184,8 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            You are going to learn about rebuttals and how to
+                            respond to the different types of patients
                         </p>
 
                         <Link
