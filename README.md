@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://phoenix.vercel.app">Phoenix DME</a>
+  <a href="https://phoenix-dme.vercel.app">Phoenix DME</a>
 </div>
 <br/>
 
