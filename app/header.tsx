@@ -2,7 +2,7 @@
 import React from "react";
 import Link from "next/link";
 import Image from "next/image";
-import img from "../img/phoenix-png-21296.png";
+import img from "../img/phoenix (1).png";
 import { usePathname } from "next/navigation";
 
 const navigation = [

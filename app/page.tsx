@@ -18,7 +18,7 @@ export default function Home() {
                 </div>
                 <div>
                     <h1 className="py-4 text-5xl font-bold tracking-tight text-center text-transparent bg-gradient-to-t bg-clip-text from-zinc-100/50 to-white sm:text-7xl">
-                        Telesales Training Durable Medical Equipment
+                        Telesales Training on Durable Medical Equipment
                     </h1>
                     <p className="mt-6 leading-5 text-zinc-600 sm:text-center">
                         Empowering Lives through Cutting-Edge Durable Medical
@@ -29,13 +29,13 @@ export default function Home() {
                             href="/test"
                             className="sm:w-1/2 sm:text-center inline-block space-x-2 rounded px-4 py-1.5 md:py-2 text-base font-semibold leading-7 text-white  ring-1 ring-zinc-600 hover:bg-white hover:text-zinc-900 duration-150 hover:ring-white hover:drop-shadow-cta"
                         >
-                            Test
+                            Learn
                         </Link>
                         <Link
                             href="/learn"
                             className="sm:w-1/2 sm:text-center inline-block transition-all space-x-2  rounded px-4 py-1.5 md:py-2 text-base font-semibold leading-7 text-zinc-800   bg-zinc-50 ring-1 ring-transparent hover:text-zinc-100 hover:ring-zinc-600/80  hover:bg-zinc-900/20 duration-150 hover:drop-shadow-cta"
                         >
-                            <span>Learn</span>
+                            <span>Test</span>
                             <span aria-hidden="true">&rarr;</span>
                         </Link>
                     </div>
