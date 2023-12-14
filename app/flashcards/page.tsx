@@ -4,7 +4,7 @@ import data from "../data/data.json";
 import { Title } from "@components/title";
 import React from "react";
 import { useState } from "react";
-import img from "../../img/flash.png";
+import img from "../../img/down.png";
 import Image from "next/image";
 
 export default function Flashcards() {

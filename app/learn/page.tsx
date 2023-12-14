@@ -13,8 +13,8 @@ export default function Learn() {
             <header className="my-10">
                 <Title>Learn the Telesales Training curriculum</Title>
                 <p className="mt-4 text-sm text-center text-zinc-600">
-                    You can deploy your own hosted version of Phoenix DME, you
-                    just need an Upstash and Vercel account.
+                    You can download the pdf files and read through the main
+                    topics
                 </p>
             </header>
 
@@ -34,8 +34,9 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            {" "}
+                            Learn the basic sales techniques, how to improve
+                            your sales skills and alot more...
                         </p>
 
                         <Link
@@ -63,8 +64,9 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            You will learn about the sales script that we use,
+                            from the introduction all the way to the trail
+                            close.
                         </p>
 
                         <Link
@@ -92,8 +94,9 @@ export default function Learn() {
                         </h1>
 
                         <p className="my-2 text-sm text-center text-zinc-600">
-                            You can deploy your own hosted version of EnvShare,
-                            you just need an Upstash and Vercel account.
+                            On day three, you are going to learn about rebuttals
+                            and how to respond to the different types of
+                            patients
                         </p>
 
                         <Link

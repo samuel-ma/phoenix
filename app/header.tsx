@@ -36,7 +36,7 @@ export const Header: React.FC = () => {
                         href="/"
                         className="font-bold duration-150 flex items-center gap-2 text-zinc-100 hover:text-white"
                     >
-                        <Image src={img} alt="logo" className="w-[40px]" />
+                        <Image src={img} alt="logo" className="w-[35px]" />
                         Phoenix DME
                     </Link>
 
