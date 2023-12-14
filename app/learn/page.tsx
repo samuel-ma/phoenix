@@ -56,7 +56,7 @@ const steps: {
     },
 ];
 
-export default function Deploy() {
+export default function Learn() {
     return (
         <div className="container px-8 mx-auto mt-16 lg:mt-32 ">
             <Title>Deploy EnvShare for Free</Title>

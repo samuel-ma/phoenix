@@ -8,7 +8,7 @@ import { usePathname } from "next/navigation";
 const navigation = [
     {
         name: "Learn",
-        href: "/deploy",
+        href: "/learn",
     },
     {
         name: "Test",
@@ -16,7 +16,7 @@ const navigation = [
     },
     {
         name: "GitHub",
-        href: "https://github.com/samuel-ma/pheonix",
+        href: "https://github.com/samuel-ma/phoenix",
         external: true,
     },
 ] satisfies { name: string; href: string; external?: boolean }[];
@@ -28,12 +28,12 @@ export const Header: React.FC = () => {
         <header className="top-0 z-30 w-full sm:fixed backdrop-blur bh-zinc-900/50">
             <div className="container mx-auto">
                 <div className="flex flex-col items-center justify-between gap-2 pt-6 sm:h-20 sm:flex-row sm:pt-0">
-                    <Image src={img} alt="logo" className="w-[40px]"/>
                     <Link
                         href="/"
-                        className="font-bold duration-150 text-zinc-100 hover:text-white"
+                        className="font-bold duration-150 flex items-center gap-2 text-zinc-100 hover:text-white"
                     >
-                        Pheonix DME
+                        <Image src={img} alt="logo" className="w-[40px]" />
+                        Phoenix DME
                     </Link>
 
                     {/* Desktop navigation */}
