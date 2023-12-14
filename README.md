@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <a href="https://phoenix.vercel.app">Phoenix DME</a>
+  <a href="https://phoenix-dme.vercel.app">Phoenix DME</a>
 </div>
 <br/>
 
@@ -27,4 +27,4 @@
 
 <br/>
 
-![scrnli_12_12_2023_6-18-43 PM](https://github.com/samuel-ma/phoenix/assets/82509653/9178fe86-3a9d-420b-8701-ed1c6bac0428)
+![scrnli_12_14_2023_4-26-53 AM](https://github.com/samuel-ma/phoenix/assets/82509653/27823441-2453-492e-add5-ba58c305bad6)
