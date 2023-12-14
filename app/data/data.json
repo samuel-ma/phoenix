@@ -1,62 +1,107 @@
 [
     {
         "id": 1,
-        "question": "What is the foundation you need to build a React application?",
-        "answer": "Javascript"
+        "question": "What is your phone number? Let me call you back, Do you have a number?",
+        "answer": "We are calling from an outbound line to make sure that no one else is listening to the call except you and me, as we are discussing some of your medical information just to protect your rights. We are using a software digital system; we are not using personal or landline numbers because it will be so hard to reach all the Medicar"
     },
     {
         "id": 2,
-        "question": "What language is React based on?",
-        "answer": "Javascript"
+        "question": "Why am I receiving this call? What is the purpose of this call?",
+        "answer": "We are just calling in regards to your pending benefits that you are qualified for from Medicare and haven't received yet, so you can receive them in a timely manner."
     },
     {
         "id": 3,
-        "question": "What are the building blocks of React apps?",
-        "answer": "Components"
+        "question": "Are you a doctor? Are you my doctor?",
+        "answer": "I'm a health care specialist working under the supervision of Medicare. We're responsible for calling you to raise your awareness about your pending benefits from Medicare."
     },
     {
         "id": 4,
-        "question": "What's the name of the syntax we use to describe a UI in React?",
-        "answer": "JSX"
+        "question": "What are the pain management centers / Medicare providers?",
+        "answer": "We're the main qualification department here in (state) we're responsible for giving this service call to all the Medicare holders so they can receive their pending benefits."
     },
     {
         "id": 5,
-        "question": "How to pass data from parent to child components?",
-        "answer": "Props"
+        "question": "Where are you located?",
+        "answer": "We're the qualification department in (city) (state) sir/ma'am."
     },
     {
         "id": 6,
-        "question": "How do we give components memory?",
-        "answer": "useState"
+        "question": "Where did you get my information? Who told you all of this? Who gave you my information?",
+        "answer": "We actually have here a list for all the Medicare seniors who still have Part B, and Our job is just to call you to update you with your pending benefit that you are qualified for regarding the discomfort that you do have. "
     },
     {
         "id": 7,
-        "question": "What is the foundation you need to build a React application?",
-        "answer": "Javascript"
+        "question": "Are you Medicare? Medicare doesn't call people!!",
+        "answer": "No! Medicare will never call you over the phone. We're the pain management center, and we're workingunder Medicare's supervision as a qualification department"
     },
     {
         "id": 8,
-        "question": "What language is React based on?",
-        "answer": "Javascript"
+        "question": "Who gave you this list?",
+        "answer": "Since you are a Medicare senior and we are working under Medicare supervision, it is normal to have this information so we can help you receive your benefits in no time. "
     },
     {
         "id": 9,
-        "question": "What are the building blocks of React apps?",
-        "answer": "Components"
+        "question": "Is this a sales call? Are you selling something?",
+        "answer": "No, this is just a service call for you, as you are still under Medicare and still have Part B that's why we are calling you"
     },
     {
         "id": 10,
-        "question": "What's the name of the syntax we use to describe a UI in React?",
-        "answer": "JSX"
+        "question": "I'm covered, thank you/ I already have Medicare/ we're all set/ we don't need insurance",
+        "answer": "We're not helping you get insurance, we're not changing anything about your Medicare or about your plans. We're giving you a service call just like everyone else, but we're not selling you anything here"
     },
     {
         "id": 11,
-        "question": "How to pass data from parent to child components?",
-        "answer": "Props"
+        "question": "Why are you asking about my pain?",
+        "answer": "We are asking you just to update your medical profile, as we are responsible for doing that, and also to help you get the benefits that will be so beneficial for you regarding the pain or discomfort that you have. That is why i am asking you."
     },
     {
         "id": 12,
-        "question": "How do we give components memory?",
-        "answer": "useState"
+        "question": "I'm already taking medications for that / I take something for my pain",
+        "answer": "Okay, that is alright, but you know medications like Tylenol or tramadol can have dangerous side effects on your internal organs like the liver, kidney, or stomach. This is why Medicare is qualifying you to receive a new benefit that is a more natural way to alleviate the pain, and we are not trying to change anything about your treatments anyway"
+    },
+    {
+        "id": 13,
+        "question": "I'm not interested / I'm satisfied with my Medicare",
+        "answer": "Well actually ma'am/sir we are not trying to sell you something or offer you anything to be interested in; we are calling you to get your pending benefits that are related to your pain only, but this is not about the interest; it is about your benefits that you are already qualified for."
+    },
+    {
+        "id": 14,
+        "question": "I don't have any pain/ I feel fine",
+        "answer": "God bless you, sir/ma'am, but you know we're not talking about any severe or permanent pain; we're talking about the slight discomfort or stiffness that comes with any extra effort like walking for too long or lifting something heavy, so i do believe you feel it sometimes every once in a while. "
+    },
+    {
+        "id": 15,
+        "question": "Why are you asking about my pain?",
+        "answer": "We are asking you just to update your medical profile, as we are responsible for doing that, and also to help you get the benefits that will be so beneficial for you regarding the pain or discomfort that you have. That is why i am asking you."
+    },
+    {
+        "id": 16,
+        "question": "I don’t need the [pain location] support/ I don’t need any braces! / I’m not interested",
+        "answer": "I understand, but we’re not talking about the old version. Medicare has upgraded this version of the supporters to be made o f synthetic fabrics and medical plastic, which is not bulky or heavy. It’s just designed to support your muscles and absorb any excess moisture that comes with arthritis. All of that has already been covered for you; you’re not paying anything out of your pocket, not for the shipping or handling fees. "
+    },
+    {
+        "id": 17,
+        "question": "f the pt saying, i am not interested because she/he is skeptical or leery, here's how to respond!",
+        "answer": "Say this: Ma’am / sir, we are not trying to ask you for any sensitive, personal, or financial information this benefit is fully covered under your health insurance, and this call is legitimate, so no one can ask yo for any information here; it is just to help you get your benefit thatis all. You see what i am saying "
+    },
+    {
+        "id": 18,
+        "question": "Is this for free?",
+        "answer": "It is fully covered under your Medicare health insurance, so you will not be paying anything out of your pocket, not for the shipping or even the handling fees"
+    },
+    {
+        "id": 19,
+        "question": "I go to my own Doctor/ I’m being treated for my pain/ I already go to pain management.",
+        "answer": "Okay, I understand we're not changing something; we’re not helping you receive any prescriptions or medications, these supports are a more natural way to relieve the pain, and This is alongside whatever your doctor is prescribing for you because it’s one of your entitled benefits; however, nothing will be sent to you without your doctor’s supervision and approval, so you don’t need to be worried. "
+    },
+    {
+        "id": 20,
+        "question": "What is my doctor’s name? / do you know who my doctor is?",
+        "answer": "We have here a list of all the doctors who are affiliated with Medicare, and of course your doctor is one of them. Since we called you, that means that your doctor is affiliated with Medicare, and the doctor is aware of that, so do not worry because eventually nothing will be sent without your doctor's permission. "
+    },
+    {
+        "id": 11,
+        "question": "I have another insurance / I have VA / I don’t use Medicare.",
+        "answer": "Okay, we are not changing anything about your plans anyway, but since you turned 65, you have to have Medicare, even if you are not using it, So this will be covered under your health insurance at no cost to you."
     }
 ]
