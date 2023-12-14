@@ -7,6 +7,10 @@ import { usePathname } from "next/navigation";
 
 const navigation = [
     {
+        name: "Flashcards",
+        href: "/flashcards",
+    },
+    {
         name: "Learn",
         href: "/learn",
     },
