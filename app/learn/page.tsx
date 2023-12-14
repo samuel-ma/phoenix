@@ -155,8 +155,7 @@ export default function Learn() {
 
                         <p className="my-2 text-sm text-center text-zinc-600">
                             Here is the script, you are going to learn about
-                            rebuttals and how to respond to the different types
-                            of patients
+                            rebuttals and how to respond to the patients
                         </p>
 
                         <Link
