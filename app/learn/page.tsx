@@ -18,7 +18,7 @@ export default function Learn() {
                 </p>
             </header>
 
-            <section className="grid grid-cols-3 gap-6">
+            <section className="grid md:grid-cols-3 sm:grid-cols-1 gap-6">
                 <div className="rounded-md p-4 mt-8 border border-zinc-600 focus-within:border-zinc-100/80 focus-within:ring-0 ">
                     <div>
                         <Image
@@ -40,7 +40,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/1BF4ndc46fW8H8PW__rpGyRwjGMAXTX50/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
@@ -70,7 +71,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/11sOwFzA7bNJmWG0WmruvpfAtcG4pamxI/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
@@ -100,7 +102,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/1KuFpw1GcBccMif19pnkVJ7adJ4STuqRR/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
@@ -130,7 +133,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/12kFML6WurEhf0plyzFZ1OAXGbHyUB6dt/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
@@ -159,7 +163,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/1ZMwXwHxxlhIbXXNzuubQ5FCiI5G7JKj6/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
@@ -188,7 +193,8 @@ export default function Learn() {
                         </p>
 
                         <Link
-                            href="https://github.com/samuel-ma/phoenix"
+                            target="_blank"
+                            href="https://drive.google.com/file/d/12kFML6WurEhf0plyzFZ1OAXGbHyUB6dt/view?usp=drive_link"
                             className="flex items-center justify-center w-full gap-2 px-4 py-2 mt-4 text-sm text-center transition-all duration-150 rounded text-zinc-800 hover:text-zinc-100 bg-zinc-200 hover:bg-transparent ring-1 ring-zinc-100"
                         >
                             <span>Learn</span>
