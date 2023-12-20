@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Phoenix DME</h1>
+    <h1>Phoenix DME</h1>
     <h5>"Empowering Lives through Cutting-Edge Durable Medical Equipment Solutions: Your Trusted Partner in Health and Wellness"</h5>
 </div>
 
